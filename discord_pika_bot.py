@@ -7,7 +7,7 @@ import requests
 import yfinance as yf
 
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
-STATE_FILE = "shariah_bot_state.json"
+STATE_FILE = "pika_bot_state.json"
 CASH_BALANCE = float(os.getenv("IBKR_CASH_BALANCE", "20000.0"))
 
 RSI_PERIOD = 2
