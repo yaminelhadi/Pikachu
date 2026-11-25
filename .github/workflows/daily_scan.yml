@@ -1,4 +1,4 @@
-name: Daily Shariah Trade Alert
+name: Daily Pika Trade Alert
 
 on:
   schedule:
