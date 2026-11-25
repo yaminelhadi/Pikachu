@@ -94,7 +94,7 @@ def run_scanner():
 
     today_str = datetime.now().strftime("%Y-%m-%d")
     lines = [
-        f"**Shariah 50-Stock Daily Scanner** — `{today_str}`",
+        f"**50-Stock Daily Scanner** — `{today_str}`",
         f"Regime (`SPUS > 150-SMA`): **{'BULL / FAVORABLE' if bull_regime else 'CAUTIOUS / DEFENSIVE'}** | Cash: **${cash:,.2f}**",
     ]
 
