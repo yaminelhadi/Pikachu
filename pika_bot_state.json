@@ -1,4 +1,12 @@
 {
-  "positions": {},
-  "cash": 5000.0
+  "positions": {
+    "MDT": {
+      "entry_price": 95.41,
+      "highest_close": 95.41,
+      "entry_date": "2026-11-27",
+      "shares": 26,
+      "alloc_pct": 50
+    }
+  },
+  "cash": 2519.34
 }
